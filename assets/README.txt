@@ -1,0 +1,1 @@
+Place your resume PDF here as assets/resume.pdf. Replace the KT photo placeholder with your own image when ready.
